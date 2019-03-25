@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Course Rating App</string>
+    <string name="title">KEA - Course Rating</string>
+    <string name="btnRateACourse">rate a course</string>
+    <string name="btnLogin">login</string>
+    <string name="btnLoginAlt">change user</string>
+    <string name="textInputUsername">username</string>
+    <string name="textInputPassword">password</string>
+    <string name="btnSubmit">submit</string>
+    <string name="btnChooseCourse">confirm</string>
+</resources>
